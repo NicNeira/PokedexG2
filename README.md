@@ -1,3 +1,2 @@
 
-
-Gabriel Guzman
+https://nicneira.github.io/PokedexG2/
