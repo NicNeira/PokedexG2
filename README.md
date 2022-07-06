@@ -1,2 +1,0 @@
-#PokedexG2
-asd
